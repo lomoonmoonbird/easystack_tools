@@ -1,0 +1,7 @@
+setup.py
+cmdline.egg-info/PKG-INFO
+cmdline.egg-info/SOURCES.txt
+cmdline.egg-info/dependency_links.txt
+cmdline.egg-info/entry_points.txt
+cmdline.egg-info/requires.txt
+cmdline.egg-info/top_level.txt
